@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sizan</h1>
 <h3 align="center">A passionate Flutter and PHP developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=siz-an&label=Profile%20views&color=0e75b6&style=flat" alt="siz-an" /> </p>
-
 - 🌱 I’m currently learning **Flutter, Firebase**
 
 - 💬 Ask me about **Android, Flutter, Firebase, PHP**
