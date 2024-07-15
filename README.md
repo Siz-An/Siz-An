@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siz-an&show_icons=true&locale=en" alt="siz-an" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siz-an&" alt="siz-an" /></p>
