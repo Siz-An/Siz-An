@@ -3,7 +3,6 @@
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
-- 💬 Ask me about **Android, Flutter, Firebase, PHP**
 
 - 📫 How to reach me **mahatosizan@gmail.com**
 
