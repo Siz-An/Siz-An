@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Android, Flutter, Firebase, PHP**
 
-- 📫 How to reach me **mahatosizan@gmail.com**
+- 📫 How to reach me **sizanmahato@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
