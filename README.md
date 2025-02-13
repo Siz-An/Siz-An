@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **sizanmahato@gmail.com**
   
-- Here's my Website Portfolio <a href="https://sijanmahato.com.np"></a>
+- Here's my Website Portfolio <a href="https://sijanmahato.com.np">SijanMahato.com.np</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
