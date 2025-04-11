@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **sizanmahato@gmail.com**
   
-- Here's my Website Portfolio <a href="https://sijanmahato.com.np">SijanMahato.com.np</a>
+- Here's my Personal Portfolio <a href="https://sijanmahato.com.np">SijanMahato.com.np</a>
+
+- Here's my Business Portfolio <a href="https://xpertcoresolutions.netlify.app/">Business Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
