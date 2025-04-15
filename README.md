@@ -9,9 +9,9 @@
   
 - Here's my Personal Portfolio <a href="https://sijanmahato.com.np">SijanMahato.com.np</a>
 
-- Here's my Business Portfolio <a href="https://xpertcoresolutions.netlify.app/">: Business Portfolio</a>
+- Here's my Business Portfolio: <a href="https://xpertcoresolutions.netlify.app/">Business Portfolio</a>
 
-- Here's Are some of my Works
+- Here's Are some of my Works:
 - <a href="https://freelancehubnepal.netlify.app/">FreeLanceHub For Nepal Only</a>
 - <a href="https://hoteltharumahal.netlify.app/">Hotel Tharu Maahal</a>
 - <a href="https://nomadquest.netlify.app/">AI Powered Travel Agency Web App</a>
