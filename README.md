@@ -11,6 +11,11 @@
 
 - Here's my Business Portfolio <a href="https://xpertcoresolutions.netlify.app/">Business Portfolio</a>
 
+- Here's Are some of my Works
+- <a href="https://freelancehubnepal.netlify.app/">FreeLanceHub For Nepal Only</a>
+- <a href="https://hoteltharumahal.netlify.app/">Hotel Tharu Maahal</a>
+- <a href="https://nomadquest.netlify.app/">AI Powered Travel Agency Web App</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sijan mahato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sijan mahato" height="30" width="40" /></a>
